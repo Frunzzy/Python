@@ -54,4 +54,4 @@ cv2.destroyAllWindows()
 # (cv_env) C:\Users\p151y\Desktop\ЛЭТИ\Diplom\Python\OpenCV>python main.py
 
 
-##DFDD
+##up
