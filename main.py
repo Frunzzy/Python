@@ -52,3 +52,6 @@ cv2.destroyAllWindows()
 
 # C:\Users\p151y\Desktop\ЛЭТИ\Diplom\Python\OpenCV>cv_env\Scripts\activate.bat
 # (cv_env) C:\Users\p151y\Desktop\ЛЭТИ\Diplom\Python\OpenCV>python main.py
+
+
+##DFDD
